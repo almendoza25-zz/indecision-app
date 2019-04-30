@@ -1,2 +1,2 @@
 # indecision-app
-Web App that randomly chooses for you on what you should do based on the list you provide
+Small web app project that randomly chooses an item from a list that you create. This was written using React, Webpack, Sass, and Scss. 
